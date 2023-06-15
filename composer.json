@@ -1,0 +1,19 @@
+{
+    "name": "thisisjeffsnow/orderapp-api",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jeff Snow"
+        }
+    ],
+    "require": {
+        "laminas/laminas-diactoros": "^3.0",
+        "psr/http-message": "^2.0",
+        "psr/http-server-middleware": "^1.0",
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
