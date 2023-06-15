@@ -2,7 +2,7 @@
 
 ---
 
-Clone into `Defaultworkspace` folder.
+Clone into `DefaultWorkspace` folder.
 
 Run `composer install`
 
