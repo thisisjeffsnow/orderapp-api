@@ -16,4 +16,4 @@ Test with `curl` commands:
 
 `curl -X POST -F firstname="First" -F lastname="Last" http://localhost:9999` should insert a new customer.
 
-`curl -X DELETE http://localhost:9999?id=1` should remove customer 1 from the database.
+`curl -X DELETE http://localhost:9999/?id=1` should remove customer 1 from the database.
